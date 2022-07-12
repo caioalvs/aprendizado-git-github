@@ -1,0 +1,2 @@
+O que são branchs (ramos) ?
+- Branchs servem para desenvolvermos features isoladas // caminhos para desenvolvermos as partes do projetos isoladas para depois juntarmos tudo em uma branch.
