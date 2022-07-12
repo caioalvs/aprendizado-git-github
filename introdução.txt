@@ -1,0 +1,5 @@
+GIT é um sistema de controle de versão de arquivos, com ele podemos desenvolver projetos colaborativos com 
+facilidade.
+
+GITHUB - Serviço de hospedagem para projetos GIT, ele permite projetos privados ou open source, ajuda a 
+desenvolver um networking entre programadores e também serve como um portfólio online.
