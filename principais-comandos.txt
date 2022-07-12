@@ -1,0 +1,41 @@
+COMANDOS DO TERMINAL
+echo: exibir uma mensagem;
+
+echo >> (x) : injeta um conteúdo dentro do arquivo selecionado 
+
+pwd: mostra em qual pasta você esta no momento que esta utilizando o terminal;
+
+ls: lista o que tem no diretório atual;
+
+mkdir: cria uma nova pasta;
+
+cd (x): ir até a pasta x;
+
+cd ..: volta a pasta anterior;
+
+cd ../../.. : quanto mais ponto e barra mais volta as pastas;
+
+touch: cria ou atualiza um arquivo;
+
+cat: pegar o conteúdo de algum arquivo;
+
+less (x): exibe o conteúdo de um arquivo; para sair apertar o "q"
+
+cp (x) para o arquivo (y): cp é um comando de cópia, ele copia um arquivo para o outro;
+
+mv (x) para o arquivo (y): mv move o arquivo de um local para o outro excluindo o primeiro local, também
+pode se dizer que renomeou o arquivo;
+
+rm (x): exclui o arquivo;
+
+rm -rf (x): exclui a pasta com arquivos;
+
+clear: limpa o terminal;
+
+history: mostra os últimos comandos;
+
+(BANG) !(linha do history): retorna o comando para executar novamente;
+
+history | grep (x): esse comando ele basicamente filtra o (x) do history para facilitar a busca;
+
+exit: fecha o terminal.
