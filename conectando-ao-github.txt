@@ -1,0 +1,2 @@
+Para se conectar ao GITHUB é simples, basta criar uma conta no seu próprio site.
+Para criar um repositório no GITHUB é simples e intuitivo, no próprio GITHUB mostra as instruções. 
